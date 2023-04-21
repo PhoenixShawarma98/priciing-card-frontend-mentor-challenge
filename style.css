@@ -108,6 +108,9 @@ ul, li{
     height:auto;
     width:100%;
   }
+  #box1,#bottom{
+    height:auto;
+  }
   #box2, #box3{
     display:block;
     width:100%;
