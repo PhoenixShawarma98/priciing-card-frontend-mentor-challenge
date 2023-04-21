@@ -105,10 +105,10 @@ ul, li{
 }
 @media (max-width:650px){
   .main{
-    height:auto;
+    height:100%;
     width:100%;
   }
-  #box1,#bottom{
+  #bottom-box{
     height:auto;
   }
   #box2, #box3{
